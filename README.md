@@ -1,6 +1,6 @@
 # 🏓 Ping Pong AI Game (Python + Pygame)
 
-![Logo](https://raw.githubusercontent.com/MohamedAliRizk-11/pingpong/main/resources/ping_pong_image.png)
+![Logo](https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/pingpong.png)
 
 A **Ping Pong game** built using Python (Pygame) with an intelligent AI opponent and special power-ups like Fire, Ice, and Scissors that make the gameplay more dynamic and fun.
 
