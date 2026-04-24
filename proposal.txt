@@ -1,0 +1,22 @@
+Project Title: AI Ping Pong Game
+
+Description:
+This project is a simple ping pong game developed using Python and Pygame. 
+The game includes a human player and an AI opponent.
+
+Objective:
+The goal of the project is to demonstrate the use of Artificial Intelligence 
+techniques in games, specifically using search algorithms.
+
+Algorithm:
+The AI player uses Breadth First Search (BFS) to decide its movement 
+and track the ball position.
+
+Features:
+- Human vs AI gameplay
+- Ball physics and collision detection
+- Power-ups (fire, ice, scissors)
+
+Tools:
+- Python
+- Pygame
