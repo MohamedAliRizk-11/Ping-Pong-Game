@@ -1,6 +1,6 @@
 # 🏓 Ping Pong AI Game (Python + Pygame)
 
-![Logo](./images/ping_pong_image.png)
+![Logo](https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/ping_pong_image.png)
 
 A **Ping Pong game** built using Python (Pygame) with an intelligent AI opponent and special power-ups like Fire, Ice, and Scissors that make the gameplay more dynamic and fun.
 
@@ -36,30 +36,30 @@ A **Ping Pong game** built using Python (Pygame) with an intelligent AI opponent
 
 ## 🏁 Start Screen
 
-![Start Screen](./screenshots/screenshot1.png)
+![Start Screen](https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/Screenshot%202026-04-24%20064448.png)
 
 ---
 
 ## 🏓 Gameplay
 
 <p align="center">
-  <img src="./screenshots/screenshot2.png" width="380"/>
-  <img src="./screenshots/screenshot3.png" width="380"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/Screenshot%202026-04-24%20064531.png" width="380"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/Screenshot%202026-04-24%20064640.png" width="380"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/screenshot4.png" width="380"/>
-  <img src="./screenshots/screenshot5.png" width="380"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/Screenshot%202026-04-24%20064718.png" width="380"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/Screenshot%202026-04-24%20064846.png" width="380"/>
 </p>
 
 ---
 
-# ⚡ Power-ups in Game
+## ⚡ Power-ups in Game
 
 <p align="center">
-  <img src="./images/fire.png" width="200"/>
-  <img src="./images/snow.png" width="200"/>
-  <img src="./images/cut.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/fire.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/snow.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedAliRizk-11/Ping-Pong-Game/main/resources/cut.png" width="200"/>
 </p>
 
 ---
@@ -73,5 +73,5 @@ A **Ping Pong game** built using Python (Pygame) with an intelligent AI opponent
 
 # 📦 Installation
 
-```bash
+```bash id="install1"
 pip install pygame
